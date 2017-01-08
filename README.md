@@ -52,9 +52,11 @@ This will show all the chapters.
 
 Each branch's README.md file is a chapter in the tutorial. If you'd like to move to the next chapter, simply enter this command (for example for the chapter "Let's Get Started")
 
-`git checkout 1-0_-_Let's_Get_Started`
+`git checkout "1-0_-_Let's_Get_Started`"
 
-Or just follow the learnings on Github. :smile:
+Note: the double quotes are necessary, because of the single quote in the branch name.
+
+Or just follow the lings on Github. :smile:
 
 With that, [let's get started](https://github.com/skooppaos/quasar-example-app-and-tutorial/tree/1_-_Let's_Get_Started) and have some fun!
 
