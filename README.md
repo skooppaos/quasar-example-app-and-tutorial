@@ -36,9 +36,30 @@ The goal of the application will be to get you familiar with these areas of a Qu
 - Routing
 - Data and Connectivity Management
 
-With that, [let's get started](https://github.com/skooppaos/quasar-example-app-and-tutorial/tree/1_-_Let's_Get_Started)!
+## How the Tutorial Works 
 
- 
+If you want to following this locally, use git to work with the tutorial. 
+
+Follow these commands. 
+
+`git clone https://github.com/skooppaos/quasar-example-app-and-tutorial.git`
+
+To see all the chapters (branches) enter this command:
+
+`git show-branch -a`
+
+This will show all the chapters. 
+
+Each branch's README.md file is a chapter in the tutorial. If you'd like to move to the next chapter, simply enter this command (for example for the chapter "Let's Get Started")
+
+`git checkout 1-0_-_Let's_Get_Started`
+
+Or just follow the learnings on Github. :smile:
+
+With that, [let's get started](https://github.com/skooppaos/quasar-example-app-and-tutorial/tree/1_-_Let's_Get_Started) and have some fun!
+
+
+
 
 
 
