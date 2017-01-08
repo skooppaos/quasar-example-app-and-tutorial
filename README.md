@@ -27,7 +27,7 @@ or if you'd like to see the Quasar CLI version you are working with, enter:
 `$ quaser -V`
 
 
-##  The `init` Command
+###  The `init` Command
 
 `init [application name] <directory name>`
 
@@ -37,8 +37,11 @@ We'll be covering the other commands later.
 
 
 
-**Step 2: Create the initial application by entering: **
+**Step 2: Create the initial application**
 ______
+
+
+Enter in your console:
 
 `$ quasar init Radiatum`
 
@@ -49,7 +52,7 @@ You will see Quasar install the app.
 
 
 
-**Step 3: Install the dependencies **
+**Step 3: Install the dependencies**
 _____
 
 Now you can change the directory down to the directory created by the `quasar-init` command.
@@ -63,7 +66,7 @@ Now carry out the installation of the necessary dependencies.
 This will take some time, as there are a lot of dev dependencies necessary for Quasar to offer its cool developer experience.
 
 
-**Step 4: Start the Dev Server **
+**Step 4: Start the Dev Server**
 ______
 
 Once the installation is finished, your ready to get rolling with Quasar application development. 
