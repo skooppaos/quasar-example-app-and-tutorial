@@ -18,7 +18,7 @@ or
 
 You should see something like this:
 
-***Insert Image of the Help here***
+![](https://github.com/skooppaos/quasar-example-app-and-tutorial/blob/1-0_-_Let's_Get_Started/images/quasar-help.jpg?raw=true)
 
 or if you'd like to see the Quasar CLI version you are working with, enter:
 
@@ -77,4 +77,6 @@ If you look at the skeleton directory of the application set up by the CLI, you 
 We'll also explain more about each directory as we move further into the tutorial. 
 
 Well done! You've created an initial quasar application.
+
+Now let's set up the back-end for the application. 
 
