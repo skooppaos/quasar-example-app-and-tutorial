@@ -18,14 +18,25 @@ Other things you'll need experience with (note the minimum levels):
 - [CSS](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/) (intermediate)
 - [Stylus CSS System](http://stylus-lang.com/try.html) (beginner)
 - [JavaScript](https://www.udemy.com/the-complete-javascript-course/) (intermediate)
-- [Webpack Workflow](https://www.udemy.com/webpack-2-the-complete-developers-guide/) and [Node](https://www.udemy.com/understand-nodejs/)(familiarization)
+- [Webpack Workflow](https://www.udemy.com/webpack-2-the-complete-developers-guide/) and [Node.js](https://www.udemy.com/understand-nodejs/)(familiarization)
 - Quasar (noob:smile:)
 
 If any of the things mentioned above sound totally unfamiliar to you, I've linked them all to websites, which are meant to teach you the basics. As you can see, I've stuck to Udemy, and yes, they all cost money. This only means you can expect quality tutorials and know you are learning good stuff!
 
-If you have any questions as we go on, please ask them in the Quasar forum. These questions will also be a source of learning for others. Don't be shy, we all have to start somewhere!
+If you have any questions as we go on, please ask them in the [Quasar forum](http://forum.quasar-framework.org/). These questions will also be a source of learning for others. Don't be shy to ask questions, we all have to start somewhere!
 
-With that, let's get started!
+## The Goal
+
+We are going to be building an application called "Radiatum". It will be a Twitter clone, with basic functionality similar to Twitter. It is purely a demonstrative application and will not be production ready. 
+
+The goal of the application will be to get you familiar with these areas of a Quasar applications.
+
+- Authentication
+- Templating and Application Structure
+- Routing
+- Data and Connectivity Management
+
+With that, [let's get started](https://github.com/skooppaos/quasar-example-app-and-tutorial/tree/1_-_Let's_Get_Started)!
 
  
 
